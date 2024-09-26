@@ -1,4 +1,5 @@
 Project Title: Customer Segmentation Using K-Means Clustering
+
 Objective:
 The goal was to group customers of a retail store based on their purchase history to help the store understand customer behavior and plan better marketing strategies.
 
